@@ -1,3 +1,6 @@
 Hello everyone, 
-
 here you will find my first programm on python. Code implements chat on sockets
+
+To run a server on localhost in Linux, open terminal and write: 
+
+	python3 server.py
